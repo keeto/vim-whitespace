@@ -15,5 +15,3 @@ endif
 
 " Clean Whitespace
 nnoremap <leader><backspace> :%s/\s\+$//<CR>
-nnoremap <leader>o :put=''<CR>
-nnoremap <leader>O :put!=''<CR>
